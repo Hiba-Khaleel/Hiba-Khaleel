@@ -8,7 +8,7 @@
 
 - 🌱 🔭 visit my final project of foocoding program  [WikiPaper](https://wikipaperapp1.onrender.com/)
 
-- 👯 I’m looking to collaborate on **new companies**
+- 👯 I’m looking to collaborate with **new companies**
 
 - 📫 Reach me **hb.khaleel@gmail.com**
 
