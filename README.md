@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiba Khaleel</h1>
+<h1 align="center">Hi 👋,I'm Hiba Khaleel</h1>
 <h3 align="center">A passionate full-stack developer from Sweden</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/N5cSfHyn6zjbQocLxh/giphy.gif">
 
