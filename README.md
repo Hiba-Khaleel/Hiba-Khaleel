@@ -50,7 +50,7 @@
       <td align="center">
         <h3>Tools</h3>
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=dotnet,irder,npm,vscode" />
+        <img src="https://skillicons.dev/icons?i=dotnet,rider,npm,vscode" />
         </a>
       </td>
     </tr>
