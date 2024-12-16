@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Sweden</h3>
 
 <div align="center">
-  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/536689/screenshots/4564404/robot.gif" border-radius="15px">
+  <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/536689/screenshots/4564404/robot.gif" border-radius="15px">
 </div>
 
 <p align="center">
