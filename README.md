@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm Hiba Khaleel</h1>
 <h3 align="center">A passionate full-stack developer from Sweden</h3>
-<img align="right" alt="Coding" width="400" src="[[https://media0.giphy.com/media/N5cSfHyn6zjbQocLxh/giphy.gif](https://i.pinimg.com/originals/0b/5f/5c/0b5f5cd4a5f4e2bb0dd2edea28b38b86.gif]https://i.pinimg.com/originals/0b/5f/5c/0b5f5cd4a5f4e2bb0dd2edea28b38b86.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/274482/screenshots/5824275/media/3d838e427f51c6844da108389c062c40.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiba-khaleel&label=Profile%20views&color=0e75b6&style=flat" alt="hiba-khaleel" /> </p>
 
 
