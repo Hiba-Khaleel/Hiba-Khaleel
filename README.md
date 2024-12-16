@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,I'm Hiba Khaleel</h1>
 <h3 align="center">A passionate full-stack developer from Sweden</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/536689/screenshots/4564404/robot.gif">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiba-khaleel&label=Profile%20views&color=0e75b6&style=flat" alt="hiba-khaleel" /> </p>
-
 
 - 🔭 I just finished building my  [Portfolio](https://github.com/Hiba-Khaleel/Portfolio-NexT-JS-Tailwind)
 
